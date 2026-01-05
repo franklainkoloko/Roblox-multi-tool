@@ -19,4 +19,4 @@
 
 ## Setup
 
-Add cookies to `data/cookies.txt` and proxies to `data/proxies.txt` (one per line)
+Add cookies to `data/cookies.txt` and proxies to `data/proxies.txt`

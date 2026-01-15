@@ -30,3 +30,6 @@ Add cookies to `data/cookies.txt` and proxies to `data/proxies.txt`
 python main.py
 ```
 
+## Contact
+
+For support or inquiries, contact `@kupk` on Discord 
